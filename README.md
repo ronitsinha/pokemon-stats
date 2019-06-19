@@ -1,0 +1,1 @@
+This program finds the average stats of Pokemon by generation and creates an HTML visualization
